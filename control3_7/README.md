@@ -1,5 +1,3 @@
-CIS AWS Foundations Benchmark v1.4.0 Remediations
-
 #CIS-140 #[CloudTrail.2] CloudTrail should have encryption at-rest enabled
 
 Remediation Playbook to remediate Control 3.7 of the AWS Foundations Benchmark v1.4.0, “ensure CloudTrail logs are encrypted at rest using AWS Key Management Service (KMS) Customer Managed Keys (CMK).” Configuring CloudTrail to use KMS encryption (called SSE-KMS) provides additional confidentiality controls on you log data.
