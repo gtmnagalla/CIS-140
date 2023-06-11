@@ -6,6 +6,6 @@
     "Security Hub Findings - Custom Action"
   ],
   "resources": [
-    "arn:aws:securityhub:us-east-1:111111111111:action/custom/sec-action"
+    "arn:aws:securityhub:us-east-1:111111111111:action/custom/sechub-action"
   ]
 }
